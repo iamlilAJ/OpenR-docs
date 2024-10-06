@@ -1,5 +1,5 @@
 ---
-title: Home
+title: OpenR on Github
 layout: home
 ---
 
