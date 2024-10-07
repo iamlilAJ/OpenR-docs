@@ -12,6 +12,12 @@ nav_order: 1
 
 OpenR: An Open-Sourced Framework for Advancing Reasoning in LLMs
 {: .fs-6 .fw-300 }
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
 <img src="../assets/images/logo.png" alt="Description" width="300" />
 
 [Get started now](/docs/get-start/index.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -49,3 +55,22 @@ We evaluate OpenR on the MATH dataset using open-access datasets and search meth
 
 
 ### Contributing
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/openreasoner/o1-dev.svg?style=for-the-badge
+[contributors-url]: https://github.com/openreasoner/o1-dev/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/openreasoner/o1-dev.svg?style=for-the-badge
+[forks-url]: https://github.com/openreasoner/o1-dev/network/members
+[stars-shield]: https://img.shields.io/github/stars/openreasoner/o1-dev.svg?style=for-the-badge
+[stars-url]: https://github.com/openreasoner/o1-dev/stargazers
+[issues-shield]: https://img.shields.io/github/issues/openreasoner/o1-dev.svg?style=for-the-badge
+[issues-url]: https://github.com/openreasoner/o1-dev/issues
+
+[license-shield]: https://img.shields.io/github/license/openreasoner/o1-dev.svg?style=for-the-badge
+[license-url]: https://github.com/openreasoner/o1-dev/blob/main/LICENSE.txt
