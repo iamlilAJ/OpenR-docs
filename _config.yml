@@ -22,3 +22,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 aux_links:
   Template Repository: https://github.com/iamlilAJ/OpenR-docs
+
+
+
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/logo.png"
