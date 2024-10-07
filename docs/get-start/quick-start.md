@@ -20,6 +20,8 @@ Before running inference, please modify the following variables in the `reason/l
 - `$MODEL_BASE`: Set this to the directory where your models are stored.
 - `$POLICY_MODEL_NAME`: Set this to the name of the policy model you wish to use.
 - `$VALUE_MODEL_NAME`: Set this to the name of the value model you wish to use.
+- `$NUM_LM_WORKER`: Set this to the number of language model (LM) workers to start.
+- `$NUM_RM_WORKER`: Set this to the number of reward model (RM) workers to start.
 
 This following starts the language model (LM) and reward model (RM) services required for running inference. Then it prepares and runs inference using different techniques.
 {: .fs-6 .fw-300 }
