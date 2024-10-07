@@ -26,7 +26,7 @@ conda create -n open_reasonser python=3.10
 ```
 
 ```
-conda activate my_project_env
+conda activate open_reasonser 
 ```
 
 ### Step 2: Intall dependencies
