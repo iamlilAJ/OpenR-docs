@@ -7,7 +7,13 @@ nav_order: 3
 # Quick Start
 {: .no_toc }
 
+## Table of contents
+{: .no_toc .text-delta }
 
+1. TOC
+{:toc}
+
+---
 
 Before running inference, please modify the following variables in the `reason/llm_service/create_service_math_shepherd.sh` script to set the appropriate base models for your usage:
 
