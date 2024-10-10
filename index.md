@@ -51,6 +51,19 @@ We evaluate OpenR on the MATH dataset using open-access datasets and search meth
 
 ## About the Project
 
+### Framework
+
+<img src="/assets/images/code_framework.png" width="800px" height="600px" />
+
+OpenReasoner is an open-source framework designed to enhance reasoning capabilities in Large Language Models (LLMs) by focusing on three key pathways:
+
+- **Data Acquisition**: This pathway emphasizes the critical role of high-quality, diverse datasets in training LLMs. It includes data collection for both model pre-training and fine-tuning, with a specific focus on **reasoning** process, which are central to OpenResoner's objectives. Given the significant costs associated with human annotation of reasoning data, **we offer an automated pipeline that extracts reasoning steps from outcome labels**, reducing manual effort while ensuring the collection of valuable reasoning information.
+
+- **Training**: 
+
+- Inference
+
+
 ### Liscense
 
 
