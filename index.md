@@ -18,7 +18,7 @@ OpenR: An Open-Sourced Framework for Advancing Reasoning in LLMs
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-<img src="../assets/images/logo.png" alt="Description" width="300" />
+<img src="./assets/images/logo.png" alt="Description" width="300" />
 
 [Get started now](/docs/get-start/index.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View it on GitHub](https://github.com/openreasoner/o1-dev){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -64,10 +64,6 @@ OpenReasoner is an open-source framework designed to enhance reasoning capabilit
 - Inference
 
 
-### Liscense
-
-
-### Contributing
 
 
 
