@@ -53,7 +53,7 @@ We evaluate OpenR on the MATH dataset using open-access datasets and search meth
 
 ### Framework
 
-<img src="../assets/images/code_framework.png" width="800px" height="600px" />
+<img src="./assets/images/code_framework.png" width="800px" height="600px" />
 
 OpenReasoner is an open-source framework designed to enhance reasoning capabilities in Large Language Models (LLMs) by focusing on three key pathways:
 
