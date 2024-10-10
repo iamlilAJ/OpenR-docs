@@ -11,7 +11,7 @@ In Process-supervision Reward Models (PRMs), the goal is to determine whether th
 
 ## Data Preprocessing
 
-The datasets we used to train our PRM include [PRM800K](https://github.com/openai/prm800k) and our dataset --- MATH_APS. These datasets are structured into three pars:
+The datasets we used to train our PRM include [PRM800K](https://github.com/openai/prm800k), [Math-Shepherd](https://huggingface.co/datasets/peiyi9979/Math-Shepherd) and our dataset --- MATH_APS. These datasets are structured into three pars:
 
 - Questions: 
 
