@@ -13,7 +13,7 @@ In Process-supervision Reward Models (PRMs), the goal is to determine whether th
 
 The datasets we used to train our PRM include [PRM800K](https://github.com/openai/prm800k), [Math-Shepherd](https://huggingface.co/datasets/peiyi9979/Math-Shepherd) and our dataset --- MATH-APS. These datasets are structured into three parts:
 
-- Questions: 
+- Question:
 
 ```json
 "question" : "Three pencils and a jumbo eraser cost $\\$1.24$. Five pencils and a jumbo eraser cost $\\$1.82$. No prices include tax. In cents, what is the cost of a pencil?"
@@ -28,16 +28,17 @@ Step: 2: The first equation is $3p+e=124$. \n\n\n\n\n
 Step: 3: To solve this system, let's subtract the first equation from the second equation. This will eliminate e. \n\n\n\n\n
 Step: 4: $5p+e-3p-e=1.82-1.24$. \n\n\n\n\n
 Step: 5: This simplifies to $2p=0.58$. So $p=0.29$. \n\n\n\n\n
-Step: 6: We could also solve this system by substitution. \n\n\n\n\n",
+Step: 6: We could also solve this system by substitution. \n\n\n\n\n"
 ```
 
 
-- Labels: corresponds to the classification for all the steps within the entire process, and it is either a `+` or a `-` based on the correctness of the process.
+- Label: corresponds to the classification for all the steps within the entire process, and it is either a `+` or a `-` based on the correctness of the process.
 
 ```json
-"labels" : ["+", "-", "+", "+", "+", "+"]
+"label" : ["+", "-", "+", "+", "+", "+"]
 ```
 
+More details of data preprocessing can be found in [Datasets]({% link docs/datasets.md %}).
 
 ## Evaluation & Fine-tuning
 
