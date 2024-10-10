@@ -59,9 +59,9 @@ OpenReasoner is an open-source framework designed to enhance reasoning capabilit
 
 - **Data Acquisition**: This pathway emphasizes the critical role of high-quality, diverse datasets in training LLMs. It includes data collection for both model pre-training and fine-tuning, with a specific focus on **reasoning** process, which are central to OpenResoner's objectives. Given the significant costs associated with human annotation of reasoning data, **we offer an automated pipeline that extracts reasoning steps from outcome labels**, reducing manual effort while ensuring the collection of valuable reasoning information.
 
-- **Training**: 
+- **Training**: This pathway centers around training strategies that enhance the reasoning capabilities of LLMs, from the perspective of both generative models and reward models. OpenReasoner provide toolkits such as **online reinforcement learning** to train LLMs as the proposer, and methods to learn **Process-supervision Reward Models** (PRMs) as the verifier.
 
-- Inference
+- **Inference**: This pathway focuses on the scaling law at test-time, enabling LLM to give refined outputs through ways of generation or searching. OpenReasoner allows us to **select among various search algorithms**—such as *beam search*, *best-of-N selection*, and others—each with unique advantages depending on the quality of the process reward models.
 
 
 ### Liscense
