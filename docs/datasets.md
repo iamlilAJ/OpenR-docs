@@ -13,8 +13,7 @@ dataset:
 
 ### Step tag
 
-We use the same step tag `ки` that [Math-Shepherd](https://arxiv.org/pdf/2312.08935.pdf) uses, so we
-append `ки` to each step.
+We use `\n\n\n\n\n` as the step tag, which is appended to each step.
 
 ### Binary classification
 
