@@ -48,10 +48,10 @@ def step(self, action, update_legal_action=True):
 ```
 
 
-## `MATHENV`
+## `MATH_ENV`
 
 Mostly Based on `CoTEnv`, with additional modification of CoT example and problem formats. In `/envs/MATH/datasets` we provide both training and testing math problems as an example. You can also test the environment by running testing code `/envs/tests/test_math.py`
 
 
 
-
+## `RL_ENV`
