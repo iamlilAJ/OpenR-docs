@@ -23,20 +23,20 @@ Reasoning with LLMs
 <p align="center">
     <a href="https://arxiv.org/abs/xxxxx">Paper</a>
     ·
-    <a href="https://colab.research.google.com/XXXXX">Demo</a>
-    ·
+    <!-- <a href="https://colab.research.google.com/XXXXX">Demo</a> -->
+    <!-- · -->
     <a href="https://iamlilaj.github.io/OpenR-docs/">Docs</a>
     ·
     <a href="https://github.com/openreasoner/o1-dev/issues">Issue</a>
-    ·
-    <a href="https://medium.com/p/xxxxxx">Blog (Pytorch)</a>
-    ·
-    <a href="https://nips.cc/virtual/xxxxx">Video</a>
+    <!-- · -->
+    <!-- <a href="https://medium.com/p/xxxxxx">Blog (Pytorch)</a> -->
+    <!-- · -->
+    <!-- <a href="https://nips.cc/virtual/xxxxx">Video</a> -->
   </p>
 </p>
 
 <p align="center">
-    <a href="./docs/get-start/installation.html" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2">Get started now</a>
+    <a href="./docs/get-start.html" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2">Get started now</a>
     <a href="https://github.com/openreasoner/o1-dev" class="btn fs-5 mb-4 mb-md-0">View it on GitHub</a>
 </p>
 
