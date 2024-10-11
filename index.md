@@ -10,7 +10,7 @@ nav_order: 1
 
 
 An Open Source Framework for Advancing
-Reasoning with LLMs
+Reasoning with Large Language Models
 {: .fs-6 .fw-300 }
 
 [![Contributors][contributors-shield]][contributors-url]
