@@ -48,15 +48,16 @@ The framework offers a variety of customization options. For further details on 
 - **`--num_mini_batch`**: Number of mini-batches per update.
 - **`--ppo_epoch`**: Number of epochs for the PPO update.
 
-## Environment-Specific Parameters
-
 The following parameters allow further customization:
+### Environment-Specific Parameters
+
+
 
 - **`--num_env_steps`**: Total number of environment steps for training.
 - **`--episode_length`**: Maximum episode length in the replay buffer.
 - **`--n_rollout_threads`**: Number of parallel environments for rollouts.
 
-## Recurrent and Network Options
+### Recurrent and Network Options
 
 For recurrent policies or specific network configurations:
 
@@ -64,7 +65,7 @@ For recurrent policies or specific network configurations:
 - **`--hidden_size`**: Hidden layer size for actor/critic networks.
 - **`--layer_N`**: Number of layers in the network.
 
-## Evaluation and Logging
+### Evaluation and Logging
 
 Options to control evaluation frequency and logging:
 
