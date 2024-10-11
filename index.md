@@ -4,13 +4,13 @@ layout: home
 nav_order: 1
 ---
 
-# OpenR
+#  *emph{OpenR}*
 {: .no_toc }
 
 
 
 An Open Source Framework for Advancing
-Reasoning in LLMs
+Reasoning with LLMs
 {: .fs-6 .fw-300 }
 
 [![Contributors][contributors-shield]][contributors-url]
